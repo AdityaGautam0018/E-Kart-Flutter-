@@ -30,21 +30,19 @@ E-Kart is a modern and responsive e-commerce mobile application built using **Fl
 
 ## 📷 Screenshots
 
-| Login & Home | Category & Wishlist |
-|--------------|---------------------|
-| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/login.jpg?raw=true" width="200"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/home_screen.jpg?raw=true" width="200"/> |
-| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/category_page.jpg?raw=true" width="200"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/wishlist_page.jpg?raw=true" width="200"/> |
+| Login | Home | Category | Wishlist |
+|-------|------|----------|----------|
+| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/login.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/home_screen.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/category_page.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/wishlist_page.jpg?raw=true" width="180"/> |
 
-| Full Product & Counter | Cart & Checkout Start |
-|------------------------|------------------------|
-| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/full_product_page.jpg?raw=true" width="200"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/full_product_with_counter.jpg?raw=true" width="200"/> |
-| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/cart_page.jpg?raw=true" width="200"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/checkout_start.jpg?raw=true" width="200"/> |
+| Full Product | Product with Counter | Cart | Checkout Start |
+|--------------|----------------------|------|----------------|
+| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/full_product_page.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/full_product_with_counter.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/cart_page.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/checkout_start.jpg?raw=true" width="180"/> |
 
-| Checkout End & Razorpay | Payment & Search |
-|--------------------------|------------------|
-| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/checkout_end.jpg?raw=true" width="200"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/razorpay_integration.jpg?raw=true" width="200"/> |
-| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/razorpay_success.jpg?raw=true" width="200"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/search_page.jpg?raw=true" width="200"/> |
+| Checkout End | Razorpay | Payment Success | Search |
+|--------------|----------|-----------------|--------|
+| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/checkout_end.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/razorpay_integration.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/razorpay_success.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/search_page.jpg?raw=true" width="180"/> |
 
-| Orders & Profile |
-|------------------|
-| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/order_page.jpg?raw=true" width="200"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/profile_page.jpg?raw=true" width="200"/> |
+| Orders | Profile | | |
+|--------|---------|--|--|
+| <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/order_page.jpg?raw=true" width="180"/> | <img src="https://github.com/AdityaGautam0018/E-Kart-Flutter-/blob/7ef88cbc5003abefb857ee4a3133f327a262622d/profile_page.jpg?raw=true" width="180"/> |  |  |
+
