@@ -1,18 +1,33 @@
-<<<<<<< HEAD
-# E-Kart-Flutter-
+# 🛒 E-Kart - Flutter E-Commerce App
 
-A new Flutter project.
+E-Kart is a modern and responsive e-commerce mobile application built using **Flutter**. The app showcases product listings, category filtering, a shopping cart experience, and smooth navigation — all with a clean and scalable architecture.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 **Home Page** with banners and featured products
+- 🗂️ **Category Listing** with images and navigation
+- 📦 **Product Details Page** with description, price, and image
+- 🛒 **Add to Cart / Remove from Cart**
+- ❤️ **Wishlist Functionality**
+- 🔍 **Search Products**
+- 🌐 **REST API Integration** for fetching products and categories
+- 📱 **Responsive UI** with clean material design
+- 🔄 **State Management** using BLoC *
+- 📤 **API Auth Integration** 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> b5e91fa (Initial commit)
+## 🧱 Tech Stack
+
+- ✅ **Flutter**
+- ✅ **Dart**
+- ✅ **REST API** (Platzi Fake Store API)
+- ✅ **State Management:** BLoC
+
+---
+
+## 📷 Screenshots
+
+
